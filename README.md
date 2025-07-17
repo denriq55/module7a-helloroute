@@ -1,3 +1,14 @@
+Laravel is a framework that helps developers build apps faster, easier, and more secure.
+It comes with tools for routing, database access and more so you don't have to build everything from scratch. 
+
+What does the /greet/{name} route do?
+-The /greet/{name} route takes whatever name is in the URL and returns a message like "Hello, Dyan!" It personalizes the greeting based on what you type. 
+
+Why is it important to use Git and GitHub in software projects?
+-Git and Github helps you keep track of changes to your code and makes it easier to share your work or collaborate with others.
+It's also useful for backing up your work and showing your progress. 
+
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
